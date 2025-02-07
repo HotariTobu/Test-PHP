@@ -1,0 +1,2 @@
+1. Ctrl + Shift + P
+2. Simple Browser: Show
